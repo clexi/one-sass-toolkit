@@ -183,7 +183,7 @@ $font-stacks: (
     font-style: normal
   ),
   helvetica: (
-    font-family: ('Helvetica Neue', Helvetica, Arial, sans-serif;),
+    font-family: ('Helvetica Neue', Helvetica, Arial, sans-serif),
     font-weight: normal,
     font-style: normal
   )
